@@ -14,10 +14,10 @@ Knight Adventures is a classic 2D platformer game where you control a brave knig
 
 ## Screenshots
 
-![Screenshot 1](/assets/screenshots/screenshot%20(1).png)
-![Screenshot 2](/assets/screenshots/screenshot%20(2).png)
-![Screenshot 3](/assets/screenshots/screenshot%20(3).png)
-![Screenshot 4](/assets/screenshots/screenshot%20(4).png)
+## ![Screenshot 1](/assets/screenshots/screenshot%20(1).png)
+## ![Screenshot 2](/assets/screenshots/screenshot%20(2).png)
+## ![Screenshot 3](/assets/screenshots/screenshot%20(3).png)
+## ![Screenshot 4](/assets/screenshots/screenshot%20(4).png)
 
 ## Installation
 

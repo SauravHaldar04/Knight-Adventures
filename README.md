@@ -34,7 +34,7 @@ If you'd like to contribute to Knight Adventures or report any issues, feel free
 
 ## Credits
 
-- **Tutorial:** [How to make a Video Game - Godot Beginner Tutorial]([https://www.youtube.com/playlist?list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7](https://youtu.be/LOhfqjmasi0?si=xHbpZ8nqlOor-P0N)) by Brackeys
+- **Tutorial:** [How to make a Video Game - Godot Beginner Tutorial](https://youtu.be/LOhfqjmasi0?si=VZR0hQKWWgcjdiL4) by Brackeys
 - **Godot Engine:** [Godot Engine](https://godotengine.org/)
 
 ## Personal Note

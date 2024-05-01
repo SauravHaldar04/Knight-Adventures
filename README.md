@@ -4,7 +4,7 @@ Welcome to Knight Adventures, a 2D platformer game created using the Godot engin
 
 ## Overview
 
-Knight Adventures is a classic 2D platformer game where you control a brave knight on a quest to rescue the princess from the clutches of an evil sorcerer. The game features various levels filled with enemies, obstacles, and challenges that you must overcome to reach the princess and save the kingdom.
+Knight Adventures is a classic 2D platformer game where you control a brave knight on a quest to rescue the princess from the clutches of an evil sorcerer. 
 
 ## Features
 
